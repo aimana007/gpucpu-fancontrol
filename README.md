@@ -3,7 +3,7 @@
 
 ## Prerequisites
 
-- [ ] Linux `ipmitool` and `sensors` packages.
+- [ ] Linux `ipmitool`, `nvidia-smi` and optionally `sensors` packages.
 
 ## Installing? Easy. Peasy. Lemon Squeezy.
 
