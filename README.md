@@ -28,7 +28,7 @@ journalctl -u gpu-cpu-fan-control.service -f
 GPU-CPU Fan Control
 
 ## Description
-Keeps your Dell R730xd/Intel Xeon CPUs & Nvidia GPU from becoming lava, while also keeping your fans from sounding like a widebody jet at takeoff thrust.
+Keeps your Dell R730xd/Intel Xeon CPUs & Nvidia GPU from becoming lava, while also keeping your server fans from sounding like a widebody jet at takeoff thrust.
 
 ## Usage
 Install it per the above instructions, set it up as a SystemD service. Fire, and forget it.
