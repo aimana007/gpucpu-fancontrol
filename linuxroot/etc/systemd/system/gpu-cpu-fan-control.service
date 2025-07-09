@@ -1,0 +1,12 @@
+[Unit]
+Description=GPU and CPU Temperature-based Fan Control
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/gpu-cpu-fan-control.sh
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
