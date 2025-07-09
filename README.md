@@ -18,7 +18,7 @@ systemctl start gpu-cpu-fan-control.service
 ***
 
 ## Name
-CPU-GPU Fan Control
+GPU-CPU Fan Control
 
 ## Description
 Keeps your Dell R730xd/Intel Xeon CPUs & Nvidia GPU from becoming lava, while also keeping your fans from sounding like a widebody jet at takeoff thrust.
