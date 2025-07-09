@@ -18,7 +18,7 @@ systemctl start gpu-cpu-fan-control.service
 - [ ] 3. Check to make sure the service isn't buggered by running the following commant:
 
 ```
-sudo journalctl -u gpu-cpu-fan-control.service -f
+journalctl -u gpu-cpu-fan-control.service -f
 ```
 ***
 
