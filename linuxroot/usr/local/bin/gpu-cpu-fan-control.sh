@@ -9,7 +9,7 @@ GPU_TEMP_MEDIUM=60
 GPU_TEMP_HIGH=70
 GPU_TEMP_CRITICAL=80
 
-# CPU temperature thresholds in celsius (lower since your CPUs run cooler)
+# CPU temperature thresholds in degrees C
 CPU_TEMP_LOW=35
 CPU_TEMP_MEDIUM=45
 CPU_TEMP_HIGH=60
