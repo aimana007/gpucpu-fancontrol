@@ -33,7 +33,7 @@ You can put in a comment on GitHub or DM me.
 Fun project, if anyone wants to contribute. Go for it!
 
 ## Authors and acknowledgment
-Aiman Al-Khazaali
+Aiman Al-Khazaali, and my employer **Elemental Genius**
 
 ## Project status
 Stable, don't duck it up (too badly).
