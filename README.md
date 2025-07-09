@@ -9,7 +9,7 @@
 
 - [ ] 1. Upload systemd service file `gpu-cpu-fan-control.service` to the specified directory on Dell R730xd hardware (NO VM'S, duh).
 - [ ] 2. Upload `gpu-cpu-fan-control.sh` *OR* `gpu-cpu-fan-control.py` to the specified directory on Dell R730xd hardware.
-- [ ] 3. Uncomment the appropriate line to enable the bash or python script in the .system service file.
+- [ ] 3. Uncomment the appropriate line to enable the bash or python script in the .system service file from step 1.
 - [ ] 4. Run the 3 commands (using sudo, or as root) below to enable and start the service:
 
 ```
