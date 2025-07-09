@@ -15,7 +15,7 @@ systemctl daemon-reload
 systemctl enable gpu-cpu-fan-control.service
 systemctl start gpu-cpu-fan-control.service
 ```
-- [ ] 3. Check to make sure the service isn't buggered by running the following commant:
+- [ ] 3. Check to make sure the service isn't buggered by running the following command (using sudo, or as root):
 
 ```
 journalctl -u gpu-cpu-fan-control.service -f
